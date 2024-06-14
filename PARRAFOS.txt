@@ -1,3 +1,4 @@
 Hola esta es la rama principal, fuera del inicio.
 Y nos pasamos a la rama V1
+Y corregimos error
 La volvemos a modificar
