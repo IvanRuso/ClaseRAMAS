@@ -1,1 +1,2 @@
-Tragajando con la rama main
+Trabajando con la rama main
+Trabajando con la rama V1.2
